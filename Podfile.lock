@@ -353,11 +353,11 @@ PODS:
   - nanopb/decode (2.30906.0)
   - nanopb/encode (2.30906.0)
   - PromisesObjC (1.2.12)
-  - Realm (10.5.0):
-    - Realm/Headers (= 10.5.0)
-  - Realm/Headers (10.5.0)
-  - RealmSwift (10.5.0):
-    - Realm (= 10.5.0)
+  - Realm (10.15.1):
+    - Realm/Headers (= 10.15.1)
+  - Realm/Headers (10.15.1)
+  - RealmSwift (10.15.1):
+    - Realm (= 10.15.1)
   - ShimmerSwift (2.1.1)
   - VerticalCardSwiper (2.3.1)
 
@@ -426,11 +426,11 @@ SPEC CHECKSUMS:
   lottie-ios: 3a3758ef5a008e762faec9c9d50a39842f26d124
   nanopb: 1bf24dd71191072e120b83dd02d08f3da0d65e53
   PromisesObjC: 3113f7f76903778cf4a0586bd1ab89329a0b7b97
-  Realm: e1c22c3d83b229afb70ebc10e1771c91e9542d12
-  RealmSwift: 6fc078d9d3fd7e58c71bfdbb694e252462f112a5
+  Realm: fbcbde2620d51623cc5b18e28f5b165c39abef52
+  RealmSwift: e4bea8e42efad3d543aea23b56504069c6faaea2
   ShimmerSwift: f7ed2daf9c246de8299dfd9e12c6ab465cba9842
   VerticalCardSwiper: 68df635b354500f86934ea044ade37a264c044c6
 
 PODFILE CHECKSUM: fd1e906fe268dd6fe0c9d052a16432f0cdcdb828
 
-COCOAPODS: 1.10.0
+COCOAPODS: 1.10.1
