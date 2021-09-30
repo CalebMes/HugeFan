@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>79028229209-eg43nv176ftigvfr9v6lnvsleo7cp0qg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.79028229209-eg43nv176ftigvfr9v6lnvsleo7cp0qg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCVWV4vzuNPmSGOPvR6viWj7bVe595nB1o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>79028229209</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>CM.Huge-Fan</string>
+	<key>PROJECT_ID</key>
+	<string>huge-fan-44ad0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>huge-fan-44ad0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:79028229209:ios:91934bd84393a132088d48</string>
+</dict>
+</plist>
